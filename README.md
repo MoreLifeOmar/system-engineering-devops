@@ -13,7 +13,7 @@ contained follows:
 * [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
 * [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions)
 
-## Author: Omar Cherni:
+## Author:
 
 * __Omar Cherni__ <[dreamdaddybanks](https://github.com/dreamdaddybanks)>
 
