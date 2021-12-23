@@ -1,5 +1,13 @@
 # System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
 
+---
+
+<p align="center">
+<a target="_blank" href="https://www.holbertonschool.com/"><img src="https://github.com/dreamdaddybanks/holbertonschool-low_level_programming/blob/master/holby.jpg?raw=true"></a>
+</p>
+
+---
+
 This repository contains programs written for the system engineering and DevOps
 track at Holberton School. In these projects, I worked with Bash and practiced
 writing Bash scripts to automate tasks. I learned about the OSI model and
