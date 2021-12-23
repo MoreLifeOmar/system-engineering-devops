@@ -1,6 +1,5 @@
 # System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
 
----
 
 <p align="center">
 <a target="_blank" href="https://www.holbertonschool.com/"><img src="https://github.com/dreamdaddybanks/holbertonschool-low_level_programming/blob/master/holby.jpg?raw=true"></a>
