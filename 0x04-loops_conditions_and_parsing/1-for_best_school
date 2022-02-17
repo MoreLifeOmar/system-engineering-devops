@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-for (( c=1; c<=10; c++ ))
+# displays Holberton School 10 times
+
+for _ in $(seq 1 10);
 do
-    echo "Best School"
+	echo "Holberton School"
 done
