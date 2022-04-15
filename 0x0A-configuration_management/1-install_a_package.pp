@@ -1,4 +1,5 @@
-# A PUPPET SCRIPT THAT INSTALLS puppet-lint.
+# installs the package puppet-lint
 package { 'puppet-lint':
-    ensure => 'installed',
+  ensure   => '2.1.1',
+  provider => 'gem',
 }
