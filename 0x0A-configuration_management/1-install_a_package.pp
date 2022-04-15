@@ -1,4 +1,4 @@
 # A PUPPET SCRIPT THAT INSTALLS puppet-lint.
-package { 'screen':
+package { 'puppet-lint':
     ensure => 'installed',
 }
