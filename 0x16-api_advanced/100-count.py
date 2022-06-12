@@ -49,7 +49,7 @@ def recurse(subreddit, hot_list=[]):
         return hot_list
     else:
         return (None)
-'''    
+    
 #!/usr/bin/python3
 """ Exporting csv files"""
 import json
@@ -88,4 +88,3 @@ def count_words(subreddit, word_list, after="null", host_list=[]):
                 print("{}: {}".format(word_list[pos], my_count[pos]))
     else:
         return(None)
-'''
