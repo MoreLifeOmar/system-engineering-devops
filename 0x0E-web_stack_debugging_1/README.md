@@ -1,1 +1,1 @@
-# 0x0E Web Stack Debugging #1
+# Web Stack Debugging
